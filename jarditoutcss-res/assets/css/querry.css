@@ -1,0 +1,17 @@
+@media screen and (max-width: 768px) { 
+
+    h4{
+        font-size: 20px;
+    }
+    p{
+        font-size:20px;
+    }
+    aside{
+        display: none;
+    }
+    a{
+        display: block;
+        font-size: 20px;
+    }
+} 
+

@@ -1,0 +1,22 @@
+
+
+
+
+aside{
+    background-color: grey;
+    
+}
+
+
+ nav{
+      background-color: black;
+
+ }
+
+ a {
+     color: white;
+ }
+
+@media screen and(width:768px){
+   
+}

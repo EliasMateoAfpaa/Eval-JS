@@ -1,0 +1,33 @@
+table, tr, td, th{ 
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Verdana, sans-serif;
+    border: 1px solid lightgray ;
+    border-collapse: collapse;
+    text-align: left;
+    vertical-align: top;  
+}
+
+#Libe{
+    color: rgb(6, 119, 249) ;
+}
+
+
+nav{
+    background-color: black;
+
+}
+
+
+@media screen and (max-width: 768px) { 	
+    td,tr,tbody, thead,tfoot,h1 { 
+        font-size : 20px;
+        border: auto; 
+    }	
+} 
+
+@media screen and (min-width: 1200px){
+    .img-fluid {
+        width: 300px;
+        height: 300px;
+    }
+}
+    
